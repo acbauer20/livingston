@@ -34,12 +34,12 @@ ul{
   font-size: 15px;
 }
 
+.picture3{
+  text-align: center;
+}
+
 @media screen and (min-width: 1024px){
   body {
     background-color: lightblue;
   }
-}
-
-.picture3{
-  text-align: center;
 }
